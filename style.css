@@ -1,0 +1,21 @@
+.back{
+    background-color: rgb(218, 212, 57);
+   font-size: medium;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.fed{
+font-weight: bolder;
+font-size: xx-large;
+}
+
+body,h1,h2,h3,h4,h5,h6 {
+    font-family:cursive;
+}
+body{
+    font-size: medium;
+}
+
+.time{
+    background-color: aqua;
+}
